@@ -10,6 +10,6 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 # Creating 3 Tier Architecture & Integrating Other AWS Resources
 ## Step 1: Download Code from GitHub in Your Local System
 ## Step 2: Create Two S3 Buckets
-> Create one S3 bucket for storing web-server & app-server code.
-> Upload the code to your S3 from your local system.
-> Create another S3 bucket for VPC flow logs.
+1.Create one S3 bucket for storing web-server & app-server code.
+2.Upload the code to your S3 from your local system.
+3.Create another S3 bucket for VPC flow logs.
